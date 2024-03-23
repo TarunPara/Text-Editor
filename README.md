@@ -11,6 +11,10 @@ This project is a Progressive Web Application (PWA) text editor that allows user
 - **Data Persistence**: Uses IndexedDB for data persistence to ensure that your data is saved and retrievable across sessions.
 - **Installable**: Can be installed on your desktop or mobile device as a standalone application.
 
+## Deployed
+This application is deployed to
+https://justanotherte.herokuapp.com/ 
+
 ## Installation
 
 To set up this project locally, follow these steps:
