@@ -40,6 +40,9 @@ npm run start
 
 The application should now be running on `http://localhost:8080`.
 
+(https://github.com/TarunPara/Text-Editor/assets/134483509/64aafb03-47dd-4bf0-be78-5bf60c06b096)
+
+
 ## Usage
 
 - Open the application in your browser.
